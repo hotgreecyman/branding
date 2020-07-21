@@ -1,0 +1,5 @@
+Homework
+     1. Consider all the other blocks and prescribe styles for them for a small screen. Sample plan:
+     1) Remove the flow around the picture in the section "About us"
+     2) In the sections “Team” and “Packages”, build blocks in a column (as in the menu)
+3) Correct a little indentation for input fields in the “Contacts” block

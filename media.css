@@ -1,0 +1,8 @@
+@media (max-width: 575px){
+	.menu {position: static;}
+	.menu a {width:100%; padding: 20px 0;}
+	.header {margin-top:0; padding: 100px 10px; background-size: cover;}
+	.header {background-attachment: scroll;}
+	.member {display: block; width: 80%; margin: 20px 15px;}
+	.contact input {padding: 10px; width: 80%;}
+}
